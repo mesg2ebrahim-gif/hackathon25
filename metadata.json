@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Saylani AI Support & Registration Portal",
+  "description": "A comprehensive registration system for welfare programs with digital ID generation and a Gemini-powered multilingual chatbot for instant support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
